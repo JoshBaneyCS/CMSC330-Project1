@@ -1,8 +1,10 @@
 # Project 1: Extending the Java Scene Parser
 
-**Student Name:** [Your Name]  
+**Student Name:** Joshua Baney 
 **Course:** CMSC330 Advanced Programming Languages  
-**Date:** [Insert Date]
+**Date:** 2/2/25
+**School Email:** jbaney4@students.umgc.edu
+**GitHub:** github.com/JoshBaneyCS/
 
 ---
 
