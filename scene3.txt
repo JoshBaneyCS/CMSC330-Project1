@@ -1,0 +1,3 @@
+Scene TestCase3-JoshBaney (400, 400)
+  Text Color (0, 0, 0) at (50, 50) "Edge Case Test - test case 4";
+End.

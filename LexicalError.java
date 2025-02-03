@@ -1,7 +1,8 @@
 // CMSC 330 Advanced Programming Languages
 // Project 1 Skeleton
-// UMGC CITE
-// August 2021
+// Joshua Baney
+// 2/2/25
+// LexicalError.java
 
 // Class that defines a lexical error
 

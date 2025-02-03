@@ -1,7 +1,8 @@
 // CMSC 330 Advanced Programming Languages
 // Project 1 Skeleton
-// UMGC CITE
-// August 2021
+// Joshua Baney
+// 2/2/25
+// SyntaxError.java
 
 // Class that defines a syntax error
 

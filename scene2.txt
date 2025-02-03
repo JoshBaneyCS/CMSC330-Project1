@@ -1,0 +1,3 @@
+Scene Error-TestCase3-JoshBaney (400, 400)
+  InvalidShape Color (0, 0, 0) at (50, 50) Height 100 Width 100;
+End.
